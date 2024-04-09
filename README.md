@@ -49,7 +49,7 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/your-feature-name).
 Create a new pull request.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is free to use.
 
 ## Acknowledgements
 
