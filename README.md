@@ -13,32 +13,32 @@ This CRUD (Create, Read, Update, Delete) application allows users to manage data
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/25dark/CRUD-APP.git
    ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-````bash
-cd CRUD-APP
+   ````bash
+   cd CRUD-APP
+   ```
 
+   ````
 
-Install dependencies:
+3. Install dependencies:
 
+   ```bash
+   npm run dev
+   ```
 
-```bash
-npm run dev
-
-
-Usage
+## Usage
 
 Access the application in your web browser at http://localhost:3000.
 Perform CRUD operations on the data using the provided interface.
 Use the navigation links to switch between different views.
 
-
-Contributing
-
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -51,9 +51,8 @@ Create a new pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 
 This project was built using Next.js framework.
 UI components were styled using Tailwind CSS.
 MongoDB is used as the database for this application.
-````
