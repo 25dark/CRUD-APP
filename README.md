@@ -20,11 +20,9 @@ This CRUD (Create, Read, Update, Delete) application allows users to manage data
 
 2. Navigate to the project directory:
 
-   ````bash
+   ```bash
    cd CRUD-APP
    ```
-
-   ````
 
 3. Install dependencies:
 
