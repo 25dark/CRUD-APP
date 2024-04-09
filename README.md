@@ -42,13 +42,15 @@ Use the navigation links to switch between different views.
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature-name).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature-name).
-Create a new pull request.
-License
+- Fork the repository.
+- Create a new branch (git checkout -b feature/your-feature-name).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature/your-feature-name).
+- Create a new pull request.
+
+## License
+
 This project is free to use.
 
 ## Acknowledgements
